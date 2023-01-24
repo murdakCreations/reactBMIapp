@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/murdakCreations/reactBMIapp.git/static/css/main.00ac00b4.css",
+    "main.js": "/murdakCreations/reactBMIapp.git/static/js/main.dcc68af1.js",
+    "index.html": "/murdakCreations/reactBMIapp.git/index.html",
+    "main.00ac00b4.css.map": "/murdakCreations/reactBMIapp.git/static/css/main.00ac00b4.css.map",
+    "main.dcc68af1.js.map": "/murdakCreations/reactBMIapp.git/static/js/main.dcc68af1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ac00b4.css",
+    "static/js/main.dcc68af1.js"
+  ]
+}
